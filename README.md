@@ -99,3 +99,19 @@ The script computes metrics such as:
 - support recovery rate,
 - and runtime.
 
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
+@article{ghayem2017sparse,
+  title={Sparse signal recovery using iterative proximal projection},
+  author={Ghayem, Fateme and Sadeghi, Mostafa and Babaie-Zadeh, Massoud and Chatterjee, Saikat and Skoglund, Mikael and Jutten, Christian},
+  journal={IEEE Transactions on Signal Processing},
+  volume={66},
+  number={4},
+  pages={879--894},
+  year={2017},
+  publisher={IEEE}
+}
+```
