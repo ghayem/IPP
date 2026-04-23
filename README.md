@@ -44,7 +44,6 @@ The repository also includes code for comparing IPP-related methods against seve
 
 - `Algorithms/` — implementations of IPP-related methods and comparison solvers
 - `Test_OurNormalization.m` — main experiment script for comparing sparse recovery algorithms
-- `README.md` — repository description
 
 Inside `Algorithms/`, the repository includes subfolders such as:
 
