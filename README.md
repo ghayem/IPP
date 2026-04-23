@@ -83,7 +83,7 @@ The paper reports that the resulting algorithm performs strongly on both synthet
 
 ## What is included in this repository
 
-This repository is not only a minimal implementation of one single solver. It also contains an experimental framework for comparing IPP-related methods with several alternatives.
+This repository contains an experimental framework for comparing IPP-related methods with several alternatives.
 
 From the main test script, the compared methods include examples such as:
 
